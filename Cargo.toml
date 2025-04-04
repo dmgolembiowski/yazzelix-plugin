@@ -1,8 +1,5 @@
 [package]
-name = "rust-plugin-example"
+name = "yazzelix-plugin"
 version = "0.1.0"
-authors = ["Aram Drevekenin <aram@poor.dev>"]
+authors = ["David Golembiowski"]
 edition = "2018"
-
-[dependencies]
-zellij-tile = "0.41.1"
